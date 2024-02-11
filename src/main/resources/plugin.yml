@@ -1,0 +1,10 @@
+name: SkyblockUtil
+version: '${version}'
+main: com.cucuruchi.skyblockutil.skyblockutil
+api-version: '1.20'
+
+depend: [CustomCrops, SuperiorSkyblock2]
+
+commands:
+  농경지제한:
+    description: '농경지제한'
